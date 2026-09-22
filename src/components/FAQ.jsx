@@ -4,12 +4,12 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const faqData = [
   {
-    question: "What services does Parvati And Sons provide?",
+    question: "What services does Thetechartist provide?",
     answer:
       "We provide modern IT solutions including software development, web applications, automation systems, cloud solutions, and digital transformation services."
   },
   {
-    question: "How can Parvati And Sons help my business grow?",
+    question: "How can Thetechartist help my business grow?",
     answer:
       "We build scalable technology solutions that improve efficiency, streamline operations, and help businesses adapt to the digital future."
   },

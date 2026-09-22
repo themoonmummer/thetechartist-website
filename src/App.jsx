@@ -19,7 +19,7 @@ function App() {
   useEffect(() => {
 
     document.title =
-      "Parvati And Sons | Future Digital Solutions";
+      "Thetechartist | Future Digital Solutions";
 
 
     let metaDescription =
@@ -43,7 +43,7 @@ function App() {
 
 
     metaDescription.content =
-      "Parvati And Sons delivers modern IT solutions, software development, automation, and digital transformation services.";
+      "Thetechartist delivers modern IT solutions, software development, automation, and digital transformation services.";
 
   }, []);
 

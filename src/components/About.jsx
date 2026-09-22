@@ -124,7 +124,7 @@ const About = () => {
               mb-6
             "
           >
-            ABOUT PARVATI & SONS
+            ABOUT THETECHARTIST
           </p>
 
           <h2
@@ -183,7 +183,7 @@ const About = () => {
             "
           >
             <p>
-              At Parvati & Sons, we build modern websites,
+              At Thetechartist, we build modern websites,
               enterprise software, mobile applications,
               e-commerce platforms, and AI-powered
               solutions that help businesses innovate,

@@ -15,7 +15,7 @@ const testimonials=[
 name:"Mr. Bikash Jain",
 company:"Founder, GoIndia",
 text:
-"Parvati And Sons delivered a flawless travel application. The UI is incredibly smooth, and the backend handles our user requirements efficiently without compromising performance."
+"Thetechartist delivered a flawless travel application. The UI is incredibly smooth, and the backend handles our user requirements efficiently without compromising performance."
 },
 
 
@@ -31,7 +31,7 @@ text:
 name:"Mr. Sudhir Kumar",
 company:"Manijot",
 text:
-"Parvati And Sons provided excellent technical support and guidance. Their commitment towards quality work and customer satisfaction is truly appreciated."
+"Thetechartist provided excellent technical support and guidance. Their commitment towards quality work and customer satisfaction is truly appreciated."
 },
 
 
@@ -39,7 +39,7 @@ text:
 name:"Mr. Rahul Dev Singh",
 company:"Priyank Paper Products",
 text:
-"I got associated with P&S and their professional approach transformed my vision into reality. They understood my requirements and delivered exactly what I imagined."
+"I got associated with Thetechartist and their professional approach transformed my vision into reality. They understood my requirements and delivered exactly what I imagined."
 },
 
 

@@ -126,11 +126,11 @@ mb-5
 "
 >
 
-PARVATI
+THE
 <span className="text-[#8FAFFF]">
-AND
+TECH
 </span>
-SONS
+ARTIST
 
 </h3>
 
@@ -339,7 +339,7 @@ className="text-[#8FAFFF]"
 />
 
 <span>
-info@parvatiandsons.com
+info@Thetechartist.com
 </span>
 
 </div>
@@ -500,7 +500,7 @@ text-[#6F80A5]
 
 
 <p>
-© {currentYear} Parvati & Sons. All rights reserved.
+© {currentYear} Thetechartist. All rights reserved.
 </p>
 
 

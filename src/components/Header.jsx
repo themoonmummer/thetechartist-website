@@ -199,7 +199,7 @@ const Header = () => {
 
             >
 
-              P&S
+             TTA
 
             </div>
 
@@ -215,7 +215,7 @@ const Header = () => {
               "
             >
 
-              Parvati And Sons
+             Thetechartist
 
             </div>
 

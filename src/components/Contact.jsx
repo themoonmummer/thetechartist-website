@@ -54,12 +54,12 @@ const Contact = () => {
     {
       icon: <Mail size={22} />,
       title: "Email",
-      text: "info@parvatiandsons.com"
+      text: "infoThetechartist.com"
     },
     {
       icon: <Phone size={22} />,
       title: "Phone",
-      text: "9368321402"
+      text: "999911XXXX1"
     }
   ];
 
@@ -97,7 +97,7 @@ const Contact = () => {
           "
         >
 {`
-const company = "Parvati And Sons";
+const company = "Thetechartist";
 
 technology.build({
  software:true,
@@ -203,7 +203,7 @@ DIGITAL_FUTURE_LOADING
             text-sm
             "
           >
-            Connect with Parvati And Sons and explore
+            Connect with  Thetechartist and explore
             modern digital solutions for your business.
           </p>
 

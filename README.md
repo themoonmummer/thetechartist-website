@@ -1,6 +1,6 @@
-# Parvati And Sons Website
+# Thetechartist Website
 
-A premium cinematic corporate website developed for **Parvati And Sons**, an Information Technology & Services company based in Rudrapur, Uttarakhand, India.
+A premium cinematic corporate website developed for **Thetechartist**, an Information Technology & Services company based in Rudrapur, Uttarakhand, India.
 
 The website is designed to deliver a modern, immersive digital experience through smooth animations, responsive layouts, and a professional user interface. It showcases the company's services, portfolio, testimonials, and contact information while reflecting its brand identity: **"Developing Next-Generation Services."**
 
@@ -39,13 +39,13 @@ Follow these steps to run the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/themoonmummer/parvati-and-sons-website.git
+git clone https://github.com/themoonmummer/thetechartist-website.git
 ```
 
 ### 2. Navigate into the project folder
 
 ```bash
-cd parvati-and-sons-website
+cd Thetechartist-website
 ```
 
 ### 3. Install dependencies
@@ -65,7 +65,7 @@ The website will start running locally through the Vite development server.
 ## 📁 Project Structure
 
 ```
-parvati-and-sons-website
+Thetechartist-website
 │
 ├── src
 │   │

@@ -1,4 +1,4 @@
-# Parvati And Sons | Next-Generation IT Services
+# Thetechartist | Next-Generation IT Services
 
 A premium, high-performance technology startup website built with React, Vite, and Tailwind CSS. This project features a modern dark-themed aesthetic, smooth scroll animations, and a fully responsive design optimized for all devices.
 
@@ -28,8 +28,8 @@ A premium, high-performance technology startup website built with React, Vite, a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/parvati-and-sons.git
-   cd parvati-and-sons
+   git clone https://github.com/your-username/thetechartist.git
+   cd Thetechartist
    ```
 
 2. **Install dependencies**:
